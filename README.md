@@ -75,6 +75,3 @@ src/
 - Implementing create, update, delete, and completion interactions
 - Persisting application data with `localStorage`
 
-## Repository
-
-GitHub: <YOUR_GITHUB_REPOSITORY_URL>
